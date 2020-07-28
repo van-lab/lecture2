@@ -1,0 +1,31 @@
+00:00:00 - Introduction
+00:00:48 - Python
+00:01:45 - hello.py
+00:03:26 - name.py
+00:07:06 - variables.py
+00:10:10 - conditions.py
+00:12:51 - sequences.py
+00:18:48 - loops0.py
+00:23:26 - loops1.py
+00:23:42 - sets.py
+00:24:58 - dictionaries.py
+00:27:57 - functions.py
+00:32:12 - modules.py
+00:35:56 - classes.py
+00:39:17 - HTTP
+00:40:25 - Flask
+00:46:56 - routes0
+00:52:25 - templates
+00:57:14 - variables0
+01:04:17 - conditions
+01:11:53 - loops
+01:17:48 - inheritance
+01:23:00 - forms
+01:33:50 - notes
+
+Flask env:
+export FLASK_APP=application.py
+set FLASK_APP=application.py
+set FLASK_ENV=development
+>flask run
+
